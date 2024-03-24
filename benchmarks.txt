@@ -19,8 +19,10 @@ better default - clarity:
 the tofu special:
 	100 players:
 		11795 frames 148.342 seconds 79.51 fps (12.58 ms/f) 7.917 fps variability
+					    (93 with dxlevel80)
 	24 players:
 		5032 frames 37.188 seconds 135.31 fps ( 7.39 ms/f) 13.814 fps variability
+					  (165 with dxlevel80)
 
 comanglia toaster:
 	100 players:
