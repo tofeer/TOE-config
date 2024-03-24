@@ -1,0 +1,5 @@
+-console -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime
+
+or
+
+-dxlevel 80 -console -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime

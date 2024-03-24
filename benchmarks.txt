@@ -1,0 +1,30 @@
+default:
+	100 players: 
+		11795 frames 162.093 seconds 72.77 fps (13.74 ms/f) 7.071 fps variability
+	24 players:
+		5032 frames 42.836 seconds 117.47 fps ( 8.51 ms/f) 11.811 fps variability
+
+better default:
+	100 players:
+		11795 frames 156.777 seconds 75.23 fps (13.29 ms/f) 7.743 fps variability
+	24 players:
+		5032 frames 41.048 seconds 122.59 fps ( 8.16 ms/f) 13.018 fps variability
+		
+better default - clarity:
+	100 players:
+		11795 frames 152.754 seconds 77.22 fps (12.95 ms/f) 7.829 fps variability
+	24 players:
+		5032 frames 38.022 seconds 132.35 fps ( 7.56 ms/f) 13.889 fps variability
+
+the tofu special:
+	100 players:
+		11795 frames 148.342 seconds 79.51 fps (12.58 ms/f) 7.917 fps variability
+	24 players:
+		5032 frames 37.188 seconds 135.31 fps ( 7.39 ms/f) 13.814 fps variability
+
+comanglia toaster:
+	100 players:
+		11795 frames 151.791 seconds 77.71 fps (12.87 ms/f) 8.079 fps variability
+
+	24 players:
+		5032 frames 39.494 seconds 127.41 fps ( 7.85 ms/f) 13.096 fps variability
