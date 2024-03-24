@@ -25,7 +25,7 @@ Presets:
 		removed map background noises
 		no bullet hole dust
 
-	the tofu special: 
+	ugly: 
 		pixelated textures, game is undeniably ugly
 		
 		no ragdolls, gibs and small explosion effects for maximum clarity
