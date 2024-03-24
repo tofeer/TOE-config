@@ -4,7 +4,7 @@ TOE (Totally Over Engineered) config made by tofu
 also, HUUUUGEEE credits to mastercom, took a lot of inspiration from there https://mastercomfig.com/app/
 
 
-===========================================================================================================================================================================
+==========================================================================================================
 
 Presets:
 	better default:
@@ -18,7 +18,8 @@ Presets:
 		almost no visual impact, just nice settings and higher fps than tf2's default settings
 		
 		deliberately didn't touch graphical settings that can be changed with the in game UI 
-		[except stuff like FOV (should always be 90) and vsync (should always be off), and motion blur (which should be off for more clarity)], 
+		[except stuff like FOV (should always be 90) and vsync (should always be off), 
+		and motion blur (which should be off for more clarity)],
 		so you don't have to edit the config to change the graphics.
 		
 		no ragdolls, gibs and small explosion effects for maximum clarity
@@ -33,7 +34,7 @@ Presets:
 		removed map background noises
 		no bullet hole dust
 
-===========================================================================================================================================================================
+==========================================================================================================
 
 Customization:
 	I tried to comment everything as much as possible, its still a lot harder to customize than 
@@ -47,9 +48,10 @@ Customization:
 	
 	Same goes for any other settings but you put the other settings in 'general.cfg',
 	and the class specific ones in '<class_name>.cfg'. 
-	This can be useful if you want to use a different sensitivity on solder for example but want to use the same on every other class.
+	This can be useful if you want to use a different sensitivity on solder 
+	for example but want to use the same on every other class.
 	
-===========================================================================================================================================================================
+==========================================================================================================
 
 Installation:
 	1.  open steam
@@ -63,7 +65,7 @@ Installation:
    (9.) click on "Replace the files in the destination" if it appears
   (10.) happy :D :) ･ᴗ･ ^‿^
    
-===========================================================================================================================================================================
+==========================================================================================================
 
 If you have any questions feel free to contact me on discord (tofu_tf2) ^ᴗ^
 
