@@ -1,3 +1,6 @@
+benchmark demos by shounic: https://drive.google.com/file/d/1xbuiBnZb301EXFyYuQP17KS21AWM_v5o/view
+run them by typing timedemo <demo_name> in the console
+
 default:
 	100 players: 
 		11795 frames 162.093 seconds 72.77 fps (13.74 ms/f) 7.071 fps variability
