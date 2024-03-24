@@ -1,6 +1,8 @@
 benchmark demos by shounic: https://drive.google.com/file/d/1xbuiBnZb301EXFyYuQP17KS21AWM_v5o/view
 run them by typing timedemo <demo_name> in the console
 
+i factory reset tf2 between every config installation, and then run the benchmarks, so it should be accurate.
+
 default:
 	100 players: 
 		11795 frames 162.093 seconds 72.77 fps (13.74 ms/f) 7.071 fps variability
